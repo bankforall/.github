@@ -1,4 +1,6 @@
 # Bank For All - Peer Share and Microfinance Platform for All
+[![](https://dcbadge.vercel.app/api/server/QK2gtrduGc)](https://discord.gg/QK2gtrduGc)
+
 This is an open-source project aimed at creating a peer sharing and microfinance platform for people who unemployed or low-income individuals or groups who otherwise would have no other access to financial services.
 
 The platform will enable them to access loans, as well as share resources and knowledge with each other, thereby creating a sustainable community.
