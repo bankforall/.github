@@ -5,9 +5,6 @@ This is an open-source project aimed at creating a peer sharing and microfinance
 
 The platform will enable them to access loans, as well as share resources and knowledge with each other, thereby creating a sustainable community.
 
-## What is peer share and micro-finance?
-...
-
 ## Contributing
 
 you can contribute to this project by forking the repository and cloning below
