@@ -5,12 +5,6 @@ This is an open-source project aimed at creating a peer sharing and microfinance
 
 The platform will enable them to access loans, as well as share resources and knowledge with each other, thereby creating a sustainable community.
 
-## Contributing
-
-you can contribute to this project by forking the repository and cloning below
-
-> here is the link to the [frontend repository](https://github.com/bankforall/web) and [backend repository](https://github.com/bankforall/api)
-
 ## Contribution Guidelines
 
 We welcome contributions from developers of all skill levels. Whether you're a seasoned developer or just starting out, there are many ways you can contribute to the project.
